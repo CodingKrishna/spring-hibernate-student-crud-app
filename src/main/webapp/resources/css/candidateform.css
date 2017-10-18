@@ -1,0 +1,107 @@
+.pl0{
+padding-left:0px;
+}
+.pr0{
+padding-right:0px;
+}
+body{
+background-color:#1C2326;
+}
+.backgroundbody{
+background-image:none;
+background-color:#F1F1F1;
+margin-bottom:0px;
+}
+.firstbody{
+background-image:none;
+background-color:#5FCF80;
+height:655px;
+}
+.hrspace{
+margin-top:0px;
+margin-bottom:15px;
+}
+.secondbody{
+background-image:none;
+background-color:#AAAAAA;
+height:655px;
+}
+.thirddbody{
+background-image:none;
+background-color:#ADE1EE;
+height:655px;
+}
+.table>thead>tr>th {
+    padding: 7px;
+	}
+.studentdetails{
+font-family:verdana;
+font-weight:bold;
+font-size:18px;
+color:#FFF;
+}
+.qualificationdetails{
+font-family:verdana;
+font-weight:bold;
+font-size:18px;
+color:#FFF;
+}
+.addressdetails{
+font-family:verdana;
+font-weight:bold;
+font-size:18px;
+color:#FFF;
+}
+.formgroupcolor{
+color:white;
+}
+.avatar{
+    width: 40px;
+	height: 42px;
+    margin: -10px auto 0px;
+    border-radius: 100%;
+    border: 2px solid #aaa;
+    background-size: cover;
+}
+.navbar {
+    border-radius: 0px;
+}
+.navbar-default {
+    background-color: #FFF;
+    border-color: #FFF;
+}
+
+
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+
+.btn-primary.btn-outline {
+    color: #428bca;
+}
+
+.btn-success.btn-outline {
+    color: #5cb85c;
+}
+
+.btn-info.btn-outline {
+    color: #5bc0de;
+}
+
+.btn-warning.btn-outline {
+    color: #f0ad4e;
+}
+
+.btn-danger.btn-outline {
+    color: #d9534f;
+}
+
+.btn-primary.btn-outline:hover,
+.btn-success.btn-outline:hover,
+.btn-info.btn-outline:hover,
+.btn-warning.btn-outline:hover,
+.btn-danger.btn-outline:hover {
+    color: #fff;
+}
